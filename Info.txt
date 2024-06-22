@@ -1,0 +1,33 @@
+**CLASSIFICATION WITH AN ACADEMIC SUCCESS DATASET**
+
+Resumen ¡Bienvenido a la Serie de Kaggle Playground 2024! 
+Planeamos continuar en el espíritu de los playgrounds anteriores, proporcionando conjuntos de datos interesantes y accesibles para que 
+nuestra comunidad practique sus habilidades de aprendizaje automático, y anticipamos una competencia cada mes.
+
+Tu objetivo: El objetivo de esta competencia es predecir el riesgo académico de los estudiantes en educación superior.
+
+El objetivo de la Serie de Kaggle Playground es proporcionar a la comunidad de Kaggle una variedad de desafíos bastante ligeros 
+que se pueden utilizar para aprender y mejorar habilidades en diferentes aspectos de aprendizaje automático y ciencia de datos. 
+La duración de cada competencia generalmente será de solo unas pocas semanas y puede tener una duración más larga o más corta dependiendo del desafío. 
+Los desafíos generalmente utilizarán conjuntos de datos bastante ligeros que se generan sintéticamente a partir de datos del mundo real 
+y brindarán la oportunidad de iterar rápidamente a través de varias ideas de modelos y de ingeniería de características, crear visualizaciones, etc.
+
+Conjuntos de datos generados sintéticamente El uso de datos sintéticos para las competencias de Playground nos permite encontrar un equilibrio 
+entre tener datos del mundo real (con características nombradas) y asegurarnos de que las etiquetas de prueba no estén disponibles públicamente. 
+Esto nos permite organizar competencias con conjuntos de datos más interesantes que en el pasado. 
+Si bien todavía existen desafíos con la generación de datos sintéticos, el estado del arte es mucho mejor ahora que cuando comenzamos 
+la Serie de Kaggle Playground hace dos años, y el objetivo es producir conjuntos de datos que tengan muchos menos artefactos. 
+¡No dudes en darnos tu opinión sobre los conjuntos de datos de las diferentes competencias para que podamos seguir mejorando!
+
+
+**DESCRIPCIÓN DATASET**
+El conjunto de datos para esta competencia (tanto de entrenamiento como de prueba) fue generado a partir de un modelo de aprendizaje profundo 
+entrenado en el conjunto de datos "Predict Students' Dropout and Academic Success". Las distribuciones de características son similares, 
+pero no exactamente iguales, a las del conjunto de datos original. Siéntete libre de utilizar el conjunto de datos original como parte de esta competencia, 
+tanto para explorar las diferencias como para ver si incorporar el original en el entrenamiento mejora el rendimiento del modelo. 
+Por favor, consulta el conjunto de datos original para obtener explicaciones de las características.
+
+Archivos
+-> train.csv: el conjunto de datos de entrenamiento; el objetivo es la variable objetivo categórica
+-> test.csv: el conjunto de datos de prueba; tu objetivo es predecir la clase de la variable objetivo para cada fila
+-> sample_submission.csv: un archivo de muestra de envío en el formato correcto

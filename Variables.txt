@@ -1,0 +1,39 @@
+'id' --> Identificador único del estudiante
+'Marital status' --> Estado civil del estudiante
+'Application mode' --> Modo de solicitud de admisión
+'Application order' --> Orden de solicitud de admisión
+'Course' --> Curso al que el estudiante se ha matriculado
+'Daytime/evening attendance' --> Asistencia diurna/nocturna del estudiante
+'Previous qualification' --> Calificación previa del estudiante
+'Previous qualification (grade)' (CONTINUA) --> Calificación previa del estudiante (nota)
+'Nationality' --> Nacionalidad del estudiante
+"Mother's qualification" --> Calificación de la madre del estudiante
+"Father's qualification" --> Calificación del padre del estudiante
+"Mother's occupation" --> Ocupación de la madre del estudiante
+"Father's occupation" --> Ocupación del padre del estudiante
+'Admission grade' --> Nota de admisión del estudiante
+'Displaced' --> Si el estudiante es desplazado o no
+'Educational special needs' --> Necesidades educativas especiales del estudiante
+'Debtor' --> Si el estudiante tiene deudas o no
+'Tuition fees up to date' --> Si el estudiante ha pagado las tasas de matrícula hasta la fecha
+'Gender' --> Género del estudiante
+'Scholarship holder' --> Si el estudiante es beneficiario de una beca o no
+'Age at enrollment' --> Edad del estudiante al momento de la matriculación
+'International' --> Si el estudiante es internacional o no
+'Curricular units 1st sem (credited)' --> Unidades curriculares del primer semestre (acreditadas)
+'Curricular units 1st sem (enrolled)' --> Unidades curriculares del primer semestre (matriculadas)
+'Curricular units 1st sem (evaluations)' --> Unidades curriculares del primer semestre (evaluaciones)
+'Curricular units 1st sem (approved)' --> Unidades curriculares del primer semestre (aprobadas)
+'Curricular units 1st sem (grade)' --> Unidades curriculares del primer semestre (nota)
+'Curricular units 1st sem (without evaluations)' --> Unidades curriculares del primer semestre (sin evaluaciones)
+'Curricular units 2nd sem (credited)' --> Unidades curriculares del segundo semestre (acreditadas)
+'Curricular units 2nd sem (enrolled)' --> Unidades curriculares del segundo semestre (matriculadas)
+'Curricular units 2nd sem (evaluations)' --> Unidades curriculares del segundo semestre (evaluaciones)
+'Curricular units 2nd sem (approved)' --> Unidades curriculares del segundo semestre (aprobadas)
+'Curricular units 2nd sem (grade)' --> Unidades curriculares del segundo semestre (nota)
+'Curricular units 2nd sem (without evaluations)' --> Unidades curriculares del segundo semestre (sin evaluaciones)
+'Unemployment rate' --> Tasa de desempleo
+'Inflation rate' --> Tasa de inflación
+'GDP' --> Producto Interno Bruto
+
+https://archive.ics.uci.edu/dataset/697/predict+students+dropout+and+academic+success
